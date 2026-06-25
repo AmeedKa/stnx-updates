@@ -1,0 +1,24 @@
+{
+  "payload": {
+    "issued_at": "2026-06-25",
+    "subscribers": [
+      {
+        "email_hash": "922b770d4429e98fe13e041c8ef9332422da48c604c5c5f35e5441cd2dab22b9",
+        "plan": "Professional",
+        "expires_at": "2026-07-20",
+        "devices": [
+          "560cbc93176aa63cdeb2f4f20ded37e5d56729aba612a9c220bd36a0955e3395"
+        ]
+      },
+      {
+        "email_hash": "2de817bb63ada7002c5ae3e7006d9ffcbc04d1c46b5715dc3a1644f5f7500ae3",
+        "plan": "Professional",
+        "expires_at": "2026-07-20",
+        "devices": [
+          "e3013460f63c802c0541f9a579095fd67ba0f6349711c124789c7e9de6d75fdb"
+        ]
+      }
+    ]
+  },
+  "signature": "Ob6rUDdvGEziNmQrohrMBZFlMN28YjA9jshclU3FbVBIWA2Q-CCuEzIe4Pq1HWcwwJ9B3DXth5B5tM7zx_MFAA"
+}
