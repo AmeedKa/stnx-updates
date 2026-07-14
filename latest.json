@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "release_date": "2026-07-09",
-  "notes": "STNX is now SPINE — … Settings and licence carry over automatically.",
-  "download_url": "https://www.mediafire.com/file/px8u23yll81xthy/SPINE-Engineering-Workbench-Setup-2.0.0.exe/file",
+  "version": "2.0.1",
+  "release_date": "2026-07-14",
+  "notes": "A maintenance release focused on workflow reliability and interface refinement.",
+  "download_url": "https://www.mediafire.com/file/u6pry83lf16diph/SPINE-Engineering-Workbench-Setup-2.0.1.exe/file",
   "mandatory": true
 }
